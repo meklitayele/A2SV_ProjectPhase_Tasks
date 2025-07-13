@@ -1,0 +1,98 @@
+*{
+  margin : 0;
+  padding : 0;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande' ;
+  /* overflow: hidden; */
+  color : rgb(16, 37, 60);
+  overflow:hidden;
+}
+.container{
+  width : 100%;
+  min-height: 100vh;
+  padding: 20px;
+  background: linear-gradient(109.6deg, rgb(36, 45, 57) 11.2%, rgb(16, 37, 60) 51.2%, rgb(0, 0, 0) 98.6%);
+  
+}
+.mainBody{
+  width : 100%;
+  max-width : 500px;
+  border-radius: 15px;
+  margin: 100px auto 20px;
+  padding: 50px 30px 70px;
+  background: #fff;
+
+}
+.mainBody h1{
+  color:rgb(16, 37, 60);
+  display: flex;
+  margin-bottom: 30px;
+  
+}
+.dataEntry{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-radius: 30px;
+  padding-left: 20px;
+  padding-right: 15px;
+  background: #edeef0;
+}
+#taskEntry{
+  border : none;
+  outline: none;
+  flex : 1;
+  background: transparent;
+  padding-left: 5px;
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+#addBtn{
+  padding : 5px 30px 5px 30px;
+  border-radius: 30px;
+  background: rgb(16, 37, 60);
+  color: #edeef0;
+  border: none;
+  cursor: pointer;
+}
+ul li{
+  padding: 12px 8px 12px 40px;
+  list-style: none;
+  user-select: none;
+  cursor : pointer;
+  position: relative;
+  font-size: 22px;
+}
+ul li::before{
+  content: '';
+  height : 28px;
+  width : 28px;
+  position: absolute;
+  background-image: url('images/square.png');
+  background-size: cover;
+  background-position: center;
+  left : 8px;
+  top : 12px;
+  
+
+}
+ul li.checked{
+  text-decoration: line-through;
+  color: #8d929c;
+}
+ul li.checked::before{
+  background-image: url('images/cross.png') ;
+}
+ul li span{
+  position: absolute;
+  right : 0;
+  top : 12px;
+  width: 30px;
+  height : 30px;
+  font-size: 15px;
+  text-align: center;
+  line-height: 30px;
+}
+ul li span:hover{
+  background:#edeef0;
+
+}
