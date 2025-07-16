@@ -1,12 +1,36 @@
-# React + Vite
+# 📬 Contact Form App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple contact form built using **React**, **JavaScript**, and **React Hook Form**. It validates user inputs (email, password, and message) and handles form submission gracefully with client-side validation.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tech Stack
 
-## Expanding the ESLint configuration
+- ⚛️ React
+- 🧰 React Hook Form (`useForm`)
+- 🎨 CSS (custom styling)
+- 🌐 Vite (for fast development)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+--- 
+
+## ✨ Features
+
+- ✅ Real-time form validation
+- ✅ Custom error messages
+- ✅ Email format validation
+- ✅ Handles form submission with `console.log` output
+- ✅ Responsive and clean UI
+
+---
+## 🛠️ Installation
+
+1, Clone the repository : git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+
+2, Navigate to the project directory : cd Task5
+
+3, Install dependencies : npm i
+
+4, Run the App : npm run dev
+
+--- 
+📷 Screenshot
