@@ -1,0 +1,53 @@
+html , body{
+  margin: 0;
+  padding : 0 ;
+  height : 100%;
+  
+}
+body{
+  background: #424874;
+}
+.mainForm{
+  display : flex;
+  align-items: center;
+  flex-direction: column;
+  margin:100px auto;
+  border-radius: 15px;
+  height: 450px;
+  width : 500px;
+  background: #f4eeff;
+}
+input{
+  background: rgb(211, 210, 210);
+  outline: none;
+  border: none;
+  height: 40px;
+  width: 300px;
+  margin-top: 20px;
+  border-radius: 5px;
+}
+input:hover{
+  border : 0.8px solid #424874;
+}
+.entry3{
+  height:150px
+}
+.entryBtn{
+  color : #b4b2b9;
+  background: #424874;
+  outline: none;
+  border: none;
+  border-radius: 30px;
+  margin-top: 50px;
+  padding:5px 30px 5px 30px;
+} 
+.entryBtn:hover{
+  color : #424874;
+  border : 1px solid #424874;
+  background: #f4eeff;
+}
+.errors{
+  color: red ;
+  font-weight: 100;
+  font-size: small;
+}
