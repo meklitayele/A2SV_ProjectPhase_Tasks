@@ -31,7 +31,9 @@ This is a simple and elegant To-Do List application built using **React**, **Typ
 
 ## 📦 Installation
 1, Clone the repository : git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+
 2, Navigate to the project directory: cd Task4
+
 3, Install dependencies : npm install
 
 ---
