@@ -1,36 +1,37 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 📬 Job Listing App
+This is a simple JobListing Site made built using NextJS.  It displayes avaiable jobs , required experiences , start date , end date and more. Once clicked on the job card displayed it leads to another page with a description of the job.It fetched data from akil database.
 
-## Getting Started
+---
 
-First, run the development server:
+## 🚀 Tech Stack
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- ⚛️ NextJS
+- 🎨 TailwindCSS
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+--- 
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## ✨ Features
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- ✅ Job Display
+- ✅ Job Description
 
-## Learn More
+---
+## 🛠️ Installation
 
-To learn more about Next.js, take a look at the following resources:
+1, Clone the repository : git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+2, Navigate to the project directory : cd Task5
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+3, Install dependencies : npm i
 
-## Deploy on Vercel
+4, Run the App : npm run dev
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+--- 
+📷 Screenshot
+<img width="1893" height="868" alt="image" src="https://github.com/user-attachments/assets/ae97c5d5-3fa1-4de8-bca7-22873a4413c5" />
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+<img width="1890" height="843" alt="image" src="https://github.com/user-attachments/assets/3d10d189-8a08-4637-a732-0be877090426" />
+
+
+
+
