@@ -1,5 +1,4 @@
-# 📬 Contact Form App
-
+# 📬 Job Listing App
 This is a simple JobListing Site made built using NextJS. It displayes avaiable jobs , required experiences , start date , end date and more. Once clicked on the job card displayed it leads to another page with a description of the job.
 
 ---
