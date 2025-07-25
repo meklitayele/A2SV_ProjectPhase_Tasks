@@ -47,6 +47,12 @@ This is a simple and elegant To-Do List application built using **React**, **Typ
 - ✅ Type-safe with TypeScript
 
 ---
+## Screenshots
+<img width="1893" height="872" alt="image" src="https://github.com/user-attachments/assets/bc2b0e46-fb98-4b2c-93a8-19f0a825a5cc" />
+
+<img width="1893" height="866" alt="image" src="https://github.com/user-attachments/assets/a059e51f-2d09-4605-b15e-ff7db616f7d5" />
+
+
 
 🤝 Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you'd like to change.
