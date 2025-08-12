@@ -1,0 +1,6 @@
+@import "tailwindcss";
+.Maintext{
+  @apply text-2xl font-extrabold mb-2 text-blue-950
+}
+
+ 
