@@ -1,10 +1,10 @@
-# Job Listing Application with Bookmark Functionality
+#📬 Job Listing Application with Bookmark Functionality and Testing 
 
 A modern, full-featured job listing application built with **Next.js**, **NextAuth**, **Redux Toolkit**, and **Tailwind CSS**. Features comprehensive authentication, job browsing, and bookmark functionality with complete testing coverage.
 
 ---
 
-## Features
+#🚀 Features
 
 ### **Authentication System**
 
@@ -69,7 +69,7 @@ A modern, full-featured job listing application built with **Next.js**, **NextAu
 
 ---
 
-## Application Screenshots
+#📷 Application Screenshots
 
 ### **Homepage - Job Listings**
 
@@ -98,7 +98,7 @@ _Error page displayed when something goes wrong, with retry functionality._
 
 ---
 
-## 🧪 Testing
+#🧪 Testing
 
 ### **Running Tests**
 
